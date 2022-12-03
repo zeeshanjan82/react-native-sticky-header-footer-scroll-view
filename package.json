@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/roycclu/react-native-sticky-header-footer-scroll-view",
   "dependencies": {
-    "prop-types": "^15.6.0"
+    "prop-types": "^15.6.0",
+        "deprecated-react-native-prop-types": "^2.3.0"
   }
 }

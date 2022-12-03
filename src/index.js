@@ -6,7 +6,8 @@
  */
 
 import React, { Component } from "react";
-import { Dimensions, View, ViewPropTypes, ScrollView } from "react-native";
+import { Dimensions, View, ScrollView } from "react-native";
+import { ViewPropTypes } from "deprecated-react-native-prop-types";
 import { StyleObj } from "react-native/Libraries/StyleSheet/StyleSheetTypes";
 import PropTypes from "prop-types";
 
